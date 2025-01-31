@@ -1,0 +1,10 @@
+python-dotenv
+langchain_google_genai
+langchain_pinecone
+llama_parse
+langchain_text_splitters
+llama-index-readers-file
+llama-index-core
+langchain_groq
+streamlit
+langgraph
