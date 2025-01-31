@@ -26,6 +26,7 @@ This application allows users to ask questions, retrieves relevant documents fro
 🔹 Google Generative AI (Embeddings for document retrieval)
 🔹 Groq LLM (Mixtral-8x7b) (LLM for response generation)
 
+![image](https://github.com/user-attachments/assets/15df3123-cbea-4f3f-9968-f795000cde38)
 
 STEPS TO RUN:
 python -m venv venv
@@ -34,5 +35,7 @@ pip install -r requirements.txt
 python parser.py (To add pdf to the vector store)
 python langgrap_rag.py (For termial base application)
 streamlit run app.py (for browser base application)
+
+![image](https://github.com/user-attachments/assets/ba7fd63f-e23e-4d28-9897-ee095aefe943)
 
 
