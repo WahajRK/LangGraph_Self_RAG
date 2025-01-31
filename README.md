@@ -27,3 +27,12 @@ This application allows users to ask questions, retrieves relevant documents fro
 🔹 Groq LLM (Mixtral-8x7b) (LLM for response generation)
 
 
+STEPS TO RUN:
+python -m venv venv
+venv/Scripts/activate
+pip install -r requirements.txt
+python parser.py (To add pdf to the vector store)
+python langgrap_rag.py (For termial base application)
+streamlit run app.py (for browser base application)
+
+
