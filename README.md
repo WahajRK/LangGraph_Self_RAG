@@ -36,6 +36,7 @@ python parser.py (To add pdf to the vector store)
 python langgrap_rag.py (For termial base application)
 streamlit run app.py (for browser base application)
 
-![image](https://github.com/user-attachments/assets/ba7fd63f-e23e-4d28-9897-ee095aefe943)
+![image](https://github.com/user-attachments/assets/7d1e9f09-516b-42ab-a7f2-dc57ce5932b5)
+
 
 
