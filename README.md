@@ -20,7 +20,7 @@ This application allows users to ask questions, retrieves relevant documents fro
 ✅ Fast & Scalable: Optimized with LangGraph stateful processing.
 
 🛠️ Tech Stack
-🔹 Python (FastAPI, Streamlit)
+🔹 Python (Streamlit)
 🔹 LangGraph (StateGraph-based RAG pipeline)
 🔹 Pinecone (Vector database for semantic search)
 🔹 Google Generative AI (Embeddings for document retrieval)
